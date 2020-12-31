@@ -6,7 +6,7 @@ I'm a software engineer who is passionate about website development😄✨🔭 I
 
 ## Find me around the web 🌎:
 
-- <a href="http://nguyenphuquanginfo.surge.sh/">About myself</a>📹 ✍🏾
+- <a href="http://nguyenphuquanginfo.surge.sh/">About myself</a> 📹 ✍🏾
 
 <!--
 **quangnguyen90/quangnguyen90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
