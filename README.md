@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Quang Nguyen Phu ✨👋✨
+
+<img src="https://github.com/quangnguyen90/quangnguyen90/blob/main/banner.PNG" alt="banner that says Quang Nguyen Phu - software engineer">
+
+I'm a software engineer who is passionate about website development😄✨🔭 I'm currently working as fullstack developer on both Frontend & Backend side. Some technologies I enjoy working with include PHP, HTML/CSS/Javascript, ReactJS, NodeJS, MySQL, MongoDB, Docker & Vagrant
+
+## Find me around the web 🌎:
+
+- <a href="http://nguyenphuquanginfo.surge.sh/">About myself</a>📹 ✍🏾
 
 <!--
 **quangnguyen90/quangnguyen90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
